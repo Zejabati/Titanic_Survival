@@ -2,15 +2,6 @@
 Predicting the Survival of Titanic Passengers using Machine Learning
 
 **1**
-
-
-```
-from google.colab import drive
-drive.mount("/gdrive")
-!jupyter nbconvert --to markdown "/gdrive/My Drive/Colab Notebooks/Titanic_Survival_Prediction.ipynb"
-```
-
-
 ```
 %matplotlib inline
 import pandas as pd
