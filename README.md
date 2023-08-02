@@ -286,9 +286,7 @@ sns.heatmap(data.corr(),linewidths = .5, annot = True, cmap = 'YlGnBu', square =
 
 
 
-
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_7_1.png)
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_7_1.png)
     
 
 
@@ -309,19 +307,6 @@ data.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -435,9 +420,7 @@ plt.show()
 ```
 
 
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_9_0.png)
-    
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_9_0.png)    
 
 
 
@@ -450,19 +433,7 @@ plt.show()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -661,11 +632,8 @@ plt.show()
 ```
 
 
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_12_0.png)
-    
-
-
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_12_0.png)
+        
 
 ```
 data= DfIterative.copy(deep=True)
@@ -693,9 +661,7 @@ for i in range(len(data)):
 
 
 
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_14_1.png)
-    
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_14_1.png)    
 
 
 
@@ -709,19 +675,6 @@ data.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -836,9 +789,7 @@ sns.heatmap(data.corr(),linewidths = .5, annot = True, cmap = 'YlGnBu', square =
 
 
 
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_16_1.png)
-    
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_16_1.png)    
 
 
 **3**
@@ -927,9 +878,7 @@ print('confusion_matrix:','\n',confusion_matrix(y_test, dectree.predict(X_test))
 ```
 
 
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_23_0.png)
-    
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_23_0.png)    
 
 
     accuracy: 0.8044692737430168
@@ -970,9 +919,8 @@ print('confusion_matrix:','\n',confusion_matrix(y_test, dectree.predict(X_test))
 
 
 
-    
-![png](Titanic_Survival_Prediction_files/Titanic_Survival_Prediction_24_1.png)
-    
+![Image Description](https://github.com/Zejabati/Titanic_Survival/blob/main/Titanic_Survival_Prediction_24_1.png)
+        
 
 
     accuracy: 0.7653631284916201
