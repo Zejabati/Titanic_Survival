@@ -1,5 +1,5 @@
 # Titanic_Survival_Prediction
-Predicting the Survival of Titanic Passengers using Machine Learning
+Predicting the Survival of Titanic Passengers using Machine Learning Algorithms including Decision Tree, Naive Bayes, Bagging, Random Forest, and Support Vector Machines (SVM).
 
 **1**
 ```
